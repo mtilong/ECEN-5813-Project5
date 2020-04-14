@@ -1,0 +1,14 @@
+core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+UART.c:14:13:UARTinitialize	40	static
+UART.c:65:6:UART_Myprintf	44	static
+UART.c:133:6:isUART_RxAvailable	24	static
+UART.c:151:6:isUART_TxAvailable	24	static
+UART.c:166:9:UART_getchar	24	static
+UART.c:183:6:UART_putchar	24	static
+UART.c:199:6:UART_enable_TxInterrupt	24	static
+UART.c:206:6:UART_disable_TxInterrupt	24	static
+UART.c:213:6:UART_addchar	16	static
+UART.c:226:6:UART_addstring	24	static
+UART.c:237:7:convert	24	static
+UART.c:256:6:UART_isTxDone	24	static
+UART.c:266:6:UART0_IRQstate	24	static
